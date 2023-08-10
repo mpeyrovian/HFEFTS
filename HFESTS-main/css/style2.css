@@ -1,0 +1,6 @@
+.description-box {
+    height: 80px;
+    width: 300px;
+    overflow-y: scroll;
+    white-space: pre;
+}
